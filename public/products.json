@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Shakira",
+        "comment": "Good",
+        "ratings": 4
+    },
+    {
+        "name": "Dona",
+        "comment": "Very good",
+        "ratings": 4
+    },
+    {
+        "name": "Ariana",
+        "comment": "Very very Good",
+        "ratings": 4
+    },
+    {
+        "name": "Momina",
+        "comment": "Awesome",
+        "ratings": 4
+    },
+    {
+        "name": "Hande",
+        "comment": "nice",
+        "ratings": 4
+    },
+    {
+        "name": "Nazli",
+        "comment": "super",
+        "ratings": 4
+    }
+]
